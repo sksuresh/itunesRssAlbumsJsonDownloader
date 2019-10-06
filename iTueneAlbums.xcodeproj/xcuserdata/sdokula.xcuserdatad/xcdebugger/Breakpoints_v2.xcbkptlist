@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iTueneAlbums/ViewController.swift"
+            timestampString = "591992511.133619"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iTueneAlbums/ViewController.swift"
+            timestampString = "591992511.133696"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iTueneAlbums/AlbumViewModel.swift"
+            timestampString = "591992511.133746"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "jsonParsing(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iTueneAlbums/AlbumViewModel.swift"
+            timestampString = "591992511.1337889"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "jsonParsing(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iTueneAlbums/FeedAlbumsMVVMC/ViewModel/AlbumViewModel.swift"
+            timestampString = "592040861.365115"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "jsonParsing(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;iTueneAlbums.Feeds&gt;, Swift.Optional&lt;iTueneAlbums.ResponseResult&gt;) -&gt; () in iTueneAlbums.AlbumViewModel.jsonParsing(completion: (Swift.Optional&lt;iTueneAlbums.DataFetchStatus&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "iTueneAlbums"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sdokula/Documents/iTueneAlbums/iTueneAlbums/FeedAlbumsMVVMC/ViewModel/AlbumViewModel.swift"
+                  timestampString = "592040478.072349"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "563">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;iTueneAlbumsTests.Feeds&gt;, Swift.Optional&lt;iTueneAlbumsTests.ResponseResult&gt;) -&gt; () in iTueneAlbumsTests.AlbumViewModel.jsonParsing(completion: (Swift.Optional&lt;iTueneAlbumsTests.DataFetchStatus&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "iTueneAlbumsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sdokula/Documents/iTueneAlbums/iTueneAlbums/FeedAlbumsMVVMC/ViewModel/AlbumViewModel.swift"
+                  timestampString = "592040478.8200361"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "563">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iTueneAlbums/FeedAlbumsMVVMC/Coordinators/AlbumDetailCoordinator.swift"
+            timestampString = "592028288.7654001"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "goToAppstore(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iTueneAlbums/FeedAlbumsMVVMC/DataManager/AlbumDataManager.swift"
+            timestampString = "592040861.365253"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "getFeeds(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Optional&lt;iTueneAlbums.ResponseResult&gt;) -&gt; () in iTueneAlbums.AlbumDataManager.getFeeds(completion: (Swift.Optional&lt;iTueneAlbums.Feeds&gt;, Swift.Optional&lt;iTueneAlbums.ResponseResult&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "iTueneAlbums"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sdokula/Documents/iTueneAlbums/iTueneAlbums/FeedAlbumsMVVMC/DataManager/AlbumDataManager.swift"
+                  timestampString = "592040478.130501"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "369">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Optional&lt;iTueneAlbumsTests.ResponseResult&gt;) -&gt; () in iTueneAlbumsTests.AlbumDataManager.getFeeds(completion: (Swift.Optional&lt;iTueneAlbumsTests.Feeds&gt;, Swift.Optional&lt;iTueneAlbumsTests.ResponseResult&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "iTueneAlbumsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sdokula/Documents/iTueneAlbums/iTueneAlbums/FeedAlbumsMVVMC/DataManager/AlbumDataManager.swift"
+                  timestampString = "592040478.8255171"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "369">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iTueneAlbums/FeedAlbumsMVVMC/DataManager/AlbumDataManager.swift"
+            timestampString = "592040861.365319"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "getFeeds(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Optional&lt;iTueneAlbums.ResponseResult&gt;) -&gt; () in iTueneAlbums.AlbumDataManager.getFeeds(completion: (Swift.Optional&lt;iTueneAlbums.Feeds&gt;, Swift.Optional&lt;iTueneAlbums.ResponseResult&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "iTueneAlbums"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sdokula/Documents/iTueneAlbums/iTueneAlbums/FeedAlbumsMVVMC/DataManager/AlbumDataManager.swift"
+                  timestampString = "592040478.135213"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "245">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Optional&lt;iTueneAlbumsTests.ResponseResult&gt;) -&gt; () in iTueneAlbumsTests.AlbumDataManager.getFeeds(completion: (Swift.Optional&lt;iTueneAlbumsTests.Feeds&gt;, Swift.Optional&lt;iTueneAlbumsTests.ResponseResult&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "iTueneAlbumsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sdokula/Documents/iTueneAlbums/iTueneAlbums/FeedAlbumsMVVMC/DataManager/AlbumDataManager.swift"
+                  timestampString = "592040478.827873"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "245">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
